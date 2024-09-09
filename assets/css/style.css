@@ -1,0 +1,13 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 50px;
+    align-items: center;
+}
+.nav-items {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 70%;
+}
